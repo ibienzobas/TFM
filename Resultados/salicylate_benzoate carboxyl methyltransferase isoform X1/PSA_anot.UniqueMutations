@@ -1,0 +1,80 @@
+
+
+MELO3C007852.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C007852.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C007850.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C007847.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C007846.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C003803.2:	mutations	found	in	variantPSA_anot
+
+chr04	4802185	.	G	GTTTTT	15.85	.	AC=1;AF=0.500;AN=2;DP=20;ExcessHet=3.0103;FS=0.000;MLEAC=1;MLEAF=0.500;MQ=54.80;QD=5.28;SOR=2.833;ANN=GTTTTT|intron_variant|MODIFIER|MELO3C003803.2.1:1|GENE_MELO3C003803.2.1:1|transcript|MELO3C003803.2.1|protein_coding|1/1|c.768+28_768+29insTTTTT||||||,GTTTTT|intragenic_variant|MODIFIER|MELO3C003803.2|MELO3C003803.2|gene_variant|MELO3C003803.2|||n.4802185_4802186insTTTTT||||||	GT:AD:DP:GQ:PL	0/1:0,3:3:34:53,0,34
+
+
+MELO3C007848.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C016395.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C013756.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C007849.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C000203.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C013127.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C026808.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C026807.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C000204.2:	mutations	found	in	variantPSA_anot
+
+
+
+MELO3C007845.2:	mutations	found	in	variantPSA_anot
+
+MELO3C007852.2	183	0
+MELO3C007850.2	14	0
+MELO3C007847.2	15	0
+MELO3C007846.2	18	0
+MELO3C003803.2	7	1
+MELO3C007848.2	13	0
+MELO3C016395.2	9	0
+MELO3C013756.2	0	0
+MELO3C007849.2	23	0
+MELO3C000203.2	24	0
+MELO3C013127.2	11	0
+MELO3C026808.2	34	0
+MELO3C026807.2	29	0
+MELO3C000204.2	3	0
+MELO3C007845.2	6	0
